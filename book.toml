@@ -7,5 +7,5 @@ description = ""
 
 [output.html]
 git-repository-url = "https://github.com/Central-Command/Wiki"
-edit-url-template = "https://github.com/Central-Command/Wiki/edit/main/src/{path}"
+edit-url-template = "https://github.com/Central-Command/Wiki/edit/main/{path}"
 site-url = "/Wiki/"
