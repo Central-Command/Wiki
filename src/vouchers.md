@@ -16,3 +16,4 @@ Use `N/A` for unknown values.
 | Server | Place | Offer | Accept |
 | - | - | - | - |
 | Wizard's Den | Yes | Yes | Yes |
+| Far Horizons | No | No | Yes |
