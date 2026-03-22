@@ -18,4 +18,5 @@ Use `N/A` for unknown values.
 | Delta-V | Yes | No | Yes |
 | Far Horizons | No | No | Yes |
 | Omu Station | Yes | Yes | Yes |
+| Starlight | Yes | Yes | Yes |
 | Wizard's Den | Yes | Yes | Yes |
