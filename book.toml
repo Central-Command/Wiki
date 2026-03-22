@@ -9,3 +9,6 @@ description = ""
 git-repository-url = "https://github.com/Central-Command/Wiki"
 edit-url-template = "https://github.com/Central-Command/Wiki/edit/main/{path}"
 site-url = "/Wiki/"
+
+[output.html.print]
+enable = false
