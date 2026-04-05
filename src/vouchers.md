@@ -20,3 +20,4 @@ Use `N/A` for unknown values.
 | Omu Station | Yes | Yes | Yes |
 | Starlight | Yes | Yes | Yes |
 | Wizard's Den | Yes | Yes | Yes |
+| Sandwich Station | No | Yes | Yes |
