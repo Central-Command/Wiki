@@ -15,6 +15,7 @@ Use `N/A` for unknown values.
 -->
 | Server | Place | Offer | Accept |
 | - | - | - | - |
+| Cosmatic Drift | Yes | Yes | Yes |
 | Delta-V | Yes | No | Yes |
 | Far Horizons | No | No | Yes |
 | Funky Station | Yes | Yes | Yes |
